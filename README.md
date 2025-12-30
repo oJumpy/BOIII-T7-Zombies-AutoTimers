@@ -1,15 +1,4 @@
-# [Download v4.2-Beta](https://github.com/oJumpy/Livesplit-AutoTimers-BOIII/releases/download/v4.2-Beta/Black-Ops-3_v4.2-Beta.asl)
-# 4.2 BETA VERSION
-
-- Fixed main layout saving issue: Resolved the problem where saving layouts with certain settings enabled would cause duplicate Text components and timer size issues.
-> [!NOTE]
-> **Although it might not be perfect still, as it has still some "issue" with having to do things manually, i think this is a much better approach compared to how it was before, as now you can actually save your layouts.**
->
-> - When disabling a setting, the text component may remain visible with an empty value
-> - You WILL need to manually remove these empty text components from your layout
-> This is still a major improvement over previous versions where layout saving was essentially broken.
-
-# [Download v4.1](https://github.com/oJumpy/Livesplit-AutoTimers-BOIII/releases/download/v4.1/Black-Ops-3_v4.1.asl)
+# [Download v4.3](https://github.com/oJumpy/BOIII-T7-Zombies-AutoTimers/releases/download/v4.3/Black-Ops-3_v4.3.asl)
 
 # Livesplit-AutoTimers-BOIII
 A multi-functional LiveSplit script for Call of Duty: Black Ops 3 Zombies.
@@ -56,6 +45,20 @@ For `Timing Method`, I recommend using `Current Timing Method`.
 - [Riot](https://twitch.tv/riot) and Chris4a4: Old Game Timer, Round Timer, Reset Timer, and Trap Timer, which served as base for many of the previous scripts.
 - [ROFLailXGOD](https://github.com/ROFLailXGOD/TimerPause): For Livesplit Timer Pause Component
 
+# From Version 4.2+
+
+# [Download v4.2-Beta](https://github.com/oJumpy/Livesplit-AutoTimers-BOIII/releases/download/v4.2-Beta/Black-Ops-3_v4.2-Beta.asl)
+# 4.2 BETA VERSION
+
+- Fixed main layout saving issue: Resolved the problem where saving layouts with certain settings enabled would cause duplicate Text components and timer size issues.
+> [!NOTE]
+> **Although it might not be perfect still, as it has still some "issue" with having to do things manually, i think this is a much better approach compared to how it was before, as now you can actually save your layouts.**
+>
+> - When disabling a setting, the text component may remain visible with an empty value
+> - You WILL need to manually remove these empty text components from your layout
+> This is still a major improvement over previous versions where layout saving was essentially broken.
+
+# From Versions 4.1 and below
 
 ## Known Issues
 > [!CAUTION]
