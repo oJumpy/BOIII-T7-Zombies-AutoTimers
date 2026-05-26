@@ -101,9 +101,6 @@ For `Timing Method`, I recommend using `Current Timing Method`.
 
 # From Version 4.2+
 
-# [Download v4.2-Beta](https://github.com/oJumpy/Livesplit-AutoTimers-BOIII/releases/download/v4.2-Beta/Black-Ops-3_v4.2-Beta.asl)
-# 4.2 BETA VERSION
-
 - Fixed main layout saving issue: Resolved the problem where saving layouts with certain settings enabled would cause duplicate Text components and timer size issues.
 > [!NOTE]
 > **Although it might not be perfect still, as it has still some "issue" with having to do things manually, i think this is a much better approach compared to how it was before, as now you can actually save your layouts.**
