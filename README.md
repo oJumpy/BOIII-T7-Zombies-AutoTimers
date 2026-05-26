@@ -67,7 +67,7 @@ For `Timing Method`, I recommend using `Current Timing Method`.
 | Tracker | Max Value | Overflow/Crash Result |
 |---------|-----------|-------------|
 | Child GSC | 130000 | Script variable overflow tracker, the game will give CI Error when overflowed, in rare cases it might freeze or game insta closes |
-| Active GSC Threads | Shared w/ Child GSC | Tracks active script threads in real-time. High counts cause severe CPU lag, micro stutters, and force the engine to drop scripts. Useful for the Shi No Numa Flogger leak. |
+| Active GSC Threads | Shared w/ Child GSC | Tracks active script threads in real time. High counts cause severe CPU lag, micro stutters. Useful for the Shi No Numa Flogger leak. |
 | Child CSC | 65000 | Client script variable overflow tracker. The game will Freeze, when overflowed. |
 | MemTree | 130000 | It's unknown what happens on BO3 when this overflows, it never occured as far as we know, yet |
 | G-Spawn | 1022 | Kicked with Error Message, when value goes above 1022 |
