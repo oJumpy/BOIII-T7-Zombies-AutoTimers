@@ -1,4 +1,4 @@
-# [Download v4.5](https://github.com/oJumpy/BOIII-T7-Zombies-AutoTimers/releases/download/v4.5/Black-Ops-3_v4.5.asl)
+# [Download v4.6](https://github.com/oJumpy/BOIII-T7-Zombies-AutoTimers/releases/download/v4.6/Black-Ops-3_v4.6.asl)
 
 # Livesplit-AutoTimers-BOIII
 A multi-functional LiveSplit script for Call of Duty: Black Ops 3 Zombies.
@@ -67,16 +67,16 @@ For `Timing Method`, I recommend using `Current Timing Method`.
 | Tracker | Max Value | Overflow/Crash Result |
 |---------|-----------|-------------|
 | Child GSC | 130000 | Script variable overflow tracker, the game will give CI Error when overflowed, in rare cases it might freeze or game insta closes |
-| Active GSC Threads | Shared w/ Child GSC | Tracks active script threads in real time. High counts cause severe CPU lag, micro stutters. Useful for the Shi No Numa Flogger leak. |
+| Active GSC Threads | Shared w/ Child GSC | Tracks active script threads in real time. |
 | Child CSC | 65000 | Client script variable overflow tracker. The game will Freeze, when overflowed. |
 | MemTree | 130000 | It's unknown what happens on BO3 when this overflows, it never occured as far as we know, yet |
 | G-Spawn | 1022 | Kicked with Error Message, when value goes above 1022 |
 | Sound Error | 3000+(?) | Game will insta crash / Fatal error (OxC0000005) at 0x00007FF7639DEAC8 (0x000000014000EAC8)  |
+| Hitmarkers | Variable | (participation) Tracks vehicle damage directly instead of using UI triggers. *Note: It might not always work.* |
 
 ### Counter Trackers
 | Tracker | Description |
 |---------|-------------|
-| Box Hits | Mystery box pulls across all maps |
 | Nade Counter | Grenades pull out counter |
 | Hitmarker Counter | Hitmarker detection for ZnS error tracking |
 | Hitmarkers Per Hour (HPH) | Rate calculator with custom prediction hours (45-60 range) |
