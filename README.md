@@ -1,4 +1,4 @@
-# [Download v4.6](https://github.com/oJumpy/BOIII-T7-Zombies-AutoTimers/releases/download/v4.6/Black-Ops-3_v4.6.asl)
+# [Download v4.7](https://github.com/oJumpy/BOIII-T7-Zombies-AutoTimers/releases/download/v4.7/Black-Ops-3_v4.7.asl)
 
 # Livesplit-AutoTimers-BOIII
 A multi-functional LiveSplit script for Call of Duty: Black Ops 3 Zombies.
@@ -61,7 +61,7 @@ For `Timing Method`, I recommend using `Current Timing Method`.
 | com_frametime | 2147483647 |
 | Frame Timer | Calculated |
 | Darkness | 4194303 |
-| ViewAngles | ±11,796,490 | Camera yaw angle with overflow detection, shows rotation direction |
+| ViewAngles | ±11,796,490 | Camera yaw angle with overflow detection, shows rotation direction. <br> Aim lag starts happening around ±1,000,000 |
 
 ### Error Trackers
 | Tracker | Max Value | Overflow/Crash Result |
