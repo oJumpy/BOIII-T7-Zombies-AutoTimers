@@ -1,4 +1,4 @@
-# [Download v4.9](https://github.com/oJumpy/BOIII-T7-Zombies-AutoTimers/releases/download/v4.9/Black-Ops-3_v4.9.asl)
+# [Download v5.0](https://github.com/oJumpy/BOIII-T7-Zombies-AutoTimers/releases/download/v5.0/Black-Ops-3_v5.0.asl)
 
 # Livesplit-AutoTimers-BOIII
 A multi-functional LiveSplit script for Call of Duty: Black Ops 3 Zombies.
@@ -7,6 +7,16 @@ A multi-functional LiveSplit script for Call of Duty: Black Ops 3 Zombies.
 #### Recommended DOA Splits
 - For optimal functionality with the DOA version, please use the [DOA Splits file](https://github.com/oJumpy/Livesplit-AutoTimers-BOIII/releases/download/v3.4/DOA.Splits.lss). This ensures the timer follows DOA's specific splitting logic. See [Setting up Splits](#setting-up-splits) for installation instructions.
 
+---
+
+> [!TIP]
+> **Enable Automatic Script Updates (Optional):**
+> 
+> 1. Install the [LiveSplit.ASLUpdater](https://github.com/oJumpy/LiveSplit.ASLUpdater) component ([`Direct Download LiveSplit.ASLUpdater.dll`](https://github.com/oJumpy/LiveSplit.ASLUpdater/releases/latest/download/LiveSplit.ASLUpdater.dll)) into your LiveSplit `Components` folder.
+> 2. Open LiveSplit -> **Edit Layout** -> Click `+` -> **Other** -> **ASL Updater**.
+> 3. LiveSplit will now automatically prompt you whenever a new version of this auto-splitter script is released!
+
+---
 ## Setup
 1. Download Livesplit [Site](https://livesplit.org/downloads/) or [Direct Link](https://github.com/LiveSplit/LiveSplit/releases/download/1.8.33/LiveSplit_1.8.33.zip)
 2. Right Click LiveSplit → Edit Layout → `+` button → Control → Scriptable Auto Splitter → Browse to `Black-Ops-3-Master.asl` and select it.
